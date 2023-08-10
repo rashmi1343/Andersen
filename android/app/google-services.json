@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "825379094285",
+    "project_id": "andersen-84d7f",
+    "storage_bucket": "andersen-84d7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825379094285:android:e5d9440ef4d52ef7bd3a44",
+        "android_client_info": {
+          "package_name": "com.app.andersen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "825379094285-ojtecifemo3fb88apds9a0k1umq4sear.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKE5-lVeqEQJAgplngDy6NH-s3IRYDOuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "825379094285-ojtecifemo3fb88apds9a0k1umq4sear.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

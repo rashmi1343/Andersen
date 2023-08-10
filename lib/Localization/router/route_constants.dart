@@ -1,0 +1,20 @@
+const String homeRoute = "home";
+const String aboutRoute = "about";
+const String settingsRoute = "settings";
+const String splashroute = "Splash";
+const String countryroute = "CountryScreen";
+const String languageroute = "LanguageScreen";
+const String contactUsRoute = "ContactUs";
+const String arabichomeRoute = "arabichome";
+const String homeMenuRoute = "homemenu";
+//const String subMenuRoute = "submenu";
+const String subMenuRoute = "submenunew";
+const String postbymenuRoute = "postByMenu";
+const String postscreenRoute = "postScreen";
+const String featuredocRoute = "documentView";
+const String eventsRoute = "Events";
+const String eventsNewRoute = "Events";
+const String teamRoute = "teamscreen";
+
+const String expandablemenuRoute = "NewExpandablewidget";
+const String getStartedRoute = "GetStartedPage";
